@@ -1,0 +1,16 @@
+{
+  "name": "sc-debug-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:damassi/styled-components-ssr-issue.git",
+  "author": "Christopher Pappas <damassi.pappas@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "react": "16.5.0",
+    "react-dom": "16.5.0",
+    "styled-components": "4.0.3"
+  }
+}
